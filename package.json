@@ -1,0 +1,23 @@
+{
+  "name": "demo-lambda-vercel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoAraujoJS/demo-lambda-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoAraujoJS/demo-lambda-vercel/issues"
+  },
+  "homepage": "https://github.com/DiegoAraujoJS/demo-lambda-vercel#readme",
+  "dependencies": {
+    "next": "^14.0.3"
+  }
+}
